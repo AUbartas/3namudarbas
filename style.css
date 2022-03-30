@@ -1,0 +1,49 @@
+body {
+  background: #a2b9bc;
+  text-align: center;
+  font-family: lato, verdana;
+  color: #6b5b95;
+  border: 30px #6b5b95;
+}
+h1 {
+  font-weight: 700;
+}
+h2 {
+  font: weight 500;
+}
+
+.left {
+  text-align: left;
+}
+.videosize {
+  height: 200px;
+  width: 400px;
+}
+.inline {
+  display: inline-block;
+  padding: 0px;
+  margin: auto;
+}
+.border {
+  border: 3px solid #878f99;
+}
+.burbulas {
+  width: 100%;
+  line-height: 20px;
+  background: #b2ad7f75;
+  color: #6b5b95;
+  border-radius: 8px;
+  text-align: center;
+  font-size: 300;
+}
+.burbulas1 {
+  margin: auto;
+  width: 40%;
+  line-height: 30px;
+  background: #b2ad7f;
+  color: #6b5b95;
+  border-radius: 8px;
+}
+.upps {
+  text-transform: uppercase;
+}
